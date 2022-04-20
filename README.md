@@ -1,4 +1,4 @@
-> ### Developer from Ukraine 🇺🇦
+### Developer from Ukraine 🇺🇦
 <code>💡 Frontend</code>
 <code>🏛️ IT Step</code>
 <code>💻 JavaScript, Python, C++</code>
