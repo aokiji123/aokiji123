@@ -1,5 +1,5 @@
 ### Developer from Ukraine 🇺🇦
-<code>💡 Frontend</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
+<code>💡 Frontend</code> <code>🏢 Residents</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code> <code> 🌏 [linkedin](https://www.linkedin.com/in/bogdan-tolmachev/)</code>
 
 ### Skills
 
