@@ -1,5 +1,5 @@
 ### Developer from Ukraine 🇺🇦
-<code>💡 Fullstack</code> <code>🍀 Atreo Digital</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
+<code>💡 Fullstack</code> <code>🍀 Atreo</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
 
 ### Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
