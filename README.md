@@ -1,8 +1,5 @@
 ### Developer from Ukraine 🇺🇦
-<code>💡 Fullstack</code> <code>🍀 Atreo</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
-
-### Developer from Ukraine 🇺🇦
-<code>💡 Fullstack</code> <code>🍀 Atreo</code> <code>🏛️ IT Step</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>Python Lecturer <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="25" height="25" alt="Python" /></a></code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
+<code>💡 Full Stack Engineer</code> <code>🍀 Atreo</code> <code>🏛️ IT Step</code> <code>💼 Lecturer</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
 
 ### Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
@@ -12,7 +9,6 @@
 
 ### In addition
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-
 
 ### Socials 
 
