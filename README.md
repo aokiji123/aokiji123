@@ -1,16 +1,16 @@
-### Frontend React Developer
-<code>💡 Full Stack Engineer</code> <code>🏛️ IT Step</code> <code>💼 Lecturer</code> <code>📱 [@mr_aokiji](https://telegram.me/mr_aokiji)</code> <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
+### Software Engineer from Ukraine 🇺🇦
+`💡 Full Stack Software Engineer` `💻 DevBrother` `🏛️ IT Step` `💼 Lecturer` <code>📨 [bogdantolmachevvv@gmail.com](mailto:bogdantolmachevvv@gmail.com)</code>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
 
 ### Tech Skills
-Languages: **JavaScript**, **TypeScript**, **Node.js**, Python
+**Frontend**: React, React Native, JavaScript, TypeScript, TanStack Query/Router/Start, Next.js, Redux, Redux Toolkit, MobX, HTML (HTML5), CSS (CSS3), Styled Components, TailwindCSS
 
-Libraries: **React**, React Native, Redux, MobX
+**Backend**: Node.js, Nest.js, Express.js, TypeORM, Sequelize, MongoDB, MySQL
 
-Frameworks: **Next.js**, **Nest.js**, Express.js
+**Testing**: React Testing Library, Jest
 
-DB: MySQL, MongoDB
+**Cloud**: AWS, SST
 
-Tools: GitHub, GitLab, Docker, Notion
+**Tools**: Git, GitHub, GitLab, Figma, Notion
